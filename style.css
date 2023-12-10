@@ -1,0 +1,21 @@
+#me{
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+#section {
+    size: auto;
+    float: left;
+    }
+
+#top {
+    align-content: left;
+    background: white;
+
+}
+
+section food.png {
+    width: 100px;
+    cursor: pointer;
+    margin: 7px 0;
+}
